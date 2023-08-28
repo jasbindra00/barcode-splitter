@@ -1,4 +1,4 @@
-<h1>Barcode Splitter - Cybeluxe</h1>
+<h1>Barcode Splitter</h1>
 
 <h2>Instructions</h2>
 <ul>
